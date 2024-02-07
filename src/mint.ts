@@ -55,7 +55,7 @@ async function mintNFT() {
     }
     const recipients: string[] = [addressRecipient1, addressRecipient2]
     const percent: number[] = [50, 50]
-    const totalPercent: number = 80
+    const totalPercent: number = 120
 
     try {
         const tx = await artistContract.mintNFT(tokenURI, nft, recipients, percent, totalPercent, {
