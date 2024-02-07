@@ -20,6 +20,7 @@ npm install
  - ARTIST_NFT_ADDRESS : the address of the Artist Smart Contract
  - RPC_PROVIDER_URL : The RPC provider of your choice (Ex : Alchemy or Infura)
 
+You can copy the _.env.sample_ file and rename it _.env_
 
 # Run
 
