@@ -29,7 +29,7 @@ To mint a NFT, run the following command
 npm run mint
 ```
 
-This will mint a NFT according to parameters in the _mint.js_ function.<br>
+This will mint a NFT according to parameters in the _mint.ts_ function.<br>
 If you want to mint another NFT with different parameters, modify the parameters
 
 
