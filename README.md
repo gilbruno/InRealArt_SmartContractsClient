@@ -14,7 +14,7 @@ npm install
 
 # Env variables 
 
-3 env variables are required : 
+3 env variables are required and must be placed in a _.env_ file at project root : 
 
  - PRIVATE_KEY : the private of the account that deploy the smart contract 
  - ARTIST_NFT_ADDRESS : the address of the Artist Smart Contract
